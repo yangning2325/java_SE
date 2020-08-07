@@ -1,0 +1,14 @@
+//package meiju;
+enum Color{
+	ºì,»Æ,À¶,ºÚ,°×
+}
+public class Meiju_for {
+
+	public static void main(String[] args) {
+		for (Color m:Color.values()) {
+			System.out.print(m+"    ");
+		}
+
+	}
+
+}
